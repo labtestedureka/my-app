@@ -1,0 +1,33 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36morg.apache.maven:standalone-pom[0;1m >-------------------[m
+[[1;34mINFO[m] [1mBuilding Maven Stub Project (No POM) 1[m
+[[1;34mINFO[m] [1m--------------------------------[ pom ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m>>> [0;32mmaven-archetype-plugin:3.1.2:generate[m [1m(default-cli)[0;1m > [0;1mgenerate-sources[m @ [36mstandalone-pom[0;1m >>>[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m<<< [0;32mmaven-archetype-plugin:3.1.2:generate[m [1m(default-cli)[0;1m < [0;1mgenerate-sources[m @ [36mstandalone-pom[0;1m <<<[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-archetype-plugin:3.1.2:generate[m [1m(default-cli)[m @ [36mstandalone-pom[0;1m ---[m
+[[1;34mINFO[m] Generating project in Batch mode
+[[1;34mINFO[m] ----------------------------------------------------------------------------
+[[1;34mINFO[m] Using following parameters for creating project from Archetype: maven-archetype-quickstart:1.4
+[[1;34mINFO[m] ----------------------------------------------------------------------------
+[[1;34mINFO[m] Parameter: groupId, Value: com.mycompany.app
+[[1;34mINFO[m] Parameter: artifactId, Value: my-app
+[[1;34mINFO[m] Parameter: version, Value: 1.0-SNAPSHOT
+[[1;34mINFO[m] Parameter: package, Value: com.mycompany.app
+[[1;34mINFO[m] Parameter: packageInPathFormat, Value: com/mycompany/app
+[[1;34mINFO[m] Parameter: package, Value: com.mycompany.app
+[[1;34mINFO[m] Parameter: groupId, Value: com.mycompany.app
+[[1;34mINFO[m] Parameter: artifactId, Value: my-app
+[[1;34mINFO[m] Parameter: version, Value: 1.0-SNAPSHOT
+[[1;34mINFO[m] Project created from Archetype in dir: /home/edureka/class_projects/my-app/my-app
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  4.180 s
+[[1;34mINFO[m] Finished at: 2020-02-02T15:56:02-05:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[0m
